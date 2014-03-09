@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\InputScript.js">
+    <Files>
+      <File FileName="Assets\_Scripts\NodeScript.js" Line="11" Column="2" />
+      <File FileName="Assets\_Scripts\PlayerMovementScript.js" Line="93" Column="1" />
+      <File FileName="Assets\_Scripts\SignScript.js" Line="35" Column="21" />
+      <File FileName="Assets\_Scripts\BirdScript.js" Line="11" Column="28" />
+      <File FileName="Assets\_Scripts\TrapScript.js" Line="24" Column="1" />
+      <File FileName="Assets\_Scripts\RatScript.js" Line="40" Column="20" />
+      <File FileName="Assets\_Scripts\DeathTriggerScript.js" Line="12" Column="49" />
+      <File FileName="Assets\_Scripts\DeathScript.js" Line="19" Column="2" />
+      <File FileName="Assets\_Scripts\ManholeCoverScript.js" Line="27" Column="26" />
+      <File FileName="Assets\_Scripts\InputScript.js" Line="29" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

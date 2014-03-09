@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\InputScript.js">
+    <Files>
+      <File FileName="Assets\_Scripts\CameraScript.js" Line="21" Column="1" />
+      <File FileName="Assets\_Scripts\PlayerMovementScript.js" Line="23" Column="5" />
+      <File FileName="Assets\_Scripts\CameraTriggerScript.js" Line="7" Column="47" />
+      <File FileName="Assets\_Scripts\InputScript.js" Line="27" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

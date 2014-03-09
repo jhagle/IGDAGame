@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FE17A0A6-9E53-2B78-6A80-EC641AA0DA13}") = "GameJam Version 11", "Assembly-UnityScript.unityproj", "{4636077C-464E-47E0-2339-46821E92F40F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4636077C-464E-47E0-2339-46821E92F40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4636077C-464E-47E0-2339-46821E92F40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4636077C-464E-47E0-2339-46821E92F40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4636077C-464E-47E0-2339-46821E92F40F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+			GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal

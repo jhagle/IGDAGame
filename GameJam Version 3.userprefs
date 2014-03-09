@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\SignScript.js">
+    <Files>
+      <File FileName="..\..\..\Documents\SpacePonies4\SpacePonies\Assets\Scripts\NodeScript.js" Line="21" Column="6" />
+      <File FileName="Assets\_Scripts\PlayerMovementScript.js" Line="116" Column="2" />
+      <File FileName="Assets\_Scripts\ManholeCoverScript.js" Line="1" Column="25" />
+      <File FileName="Assets\_Scripts\WinTriggerScript.js" Line="3" Column="1" />
+      <File FileName="Assets\_Scripts\DeathTriggerScript.js" Line="7" Column="51" />
+      <File FileName="Assets\_Scripts\DeathScript.js" Line="10" Column="43" />
+      <File FileName="Assets\_Scripts\StoplightScript.js" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\InputScript.js" Line="14" Column="22" />
+      <File FileName="Assets\_Scripts\BirdScript.js" Line="10" Column="49" />
+      <File FileName="Assets\_Scripts\TrapScript.js" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\SignScript.js" Line="24" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
